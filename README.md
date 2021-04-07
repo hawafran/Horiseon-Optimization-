@@ -3,3 +3,4 @@ In the html code, there comments have been added to identify each change that wa
 
 [image 1 of website](./Assets/Horiseon1.png)
 [inage 2 of website](./Assets/Horiseon2.png)
+Link to website: <file:///Users/hawa/Desktop/homeowrk%20repos/homework%201%20seo/index.html#online-reputation-management>
